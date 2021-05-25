@@ -702,6 +702,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [Distributed Machine Learning](https://www.csie.ntu.edu.tw/~cjlin/talks/bigdata-bilbao.pdf)
 	* [Aroma: Using ML for Code Recommendation at Facebook](https://code.fb.com/developer-tools/aroma/)
 	* [Flyte: Cloud Native Machine Learning and Data Processing Platform at Lyft](https://eng.lyft.com/introducing-flyte-cloud-native-machine-learning-and-data-processing-platform-fb2bb3046a59)
+	* [LyftLearn: ML Model Training Infrastructure built on Kubernetes at Lyft](https://eng.lyft.com/lyftlearn-ml-model-training-infrastructure-built-on-kubernetes-aef8218842bb)
 	* [Michelangelo: Machine Learning Platform at Uber](https://eng.uber.com/michelangelo/)
 	* [Scaling Michelangelo](https://eng.uber.com/scaling-michelangelo/)
 	* [Machine Learning Platform at Yelp](https://engineeringblog.yelp.com/2020/07/ML-platform-overview.html)
@@ -769,6 +770,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Personalized Search at Etsy](https://codeascraft.com/2020/10/29/bringing-personalized-search-to-etsy/)
 	* [ML Feature Serving Infrastructure at Lyft](https://eng.lyft.com/ml-feature-serving-infrastructure-at-lyft-d30bf2d3c32a)
 	* [Context-Specific Bidding System at Etsy](https://codeascraft.com/2021/03/23/how-we-built-a-context-specific-bidding-system-for-etsy-ads/)
+	* [Moderating Promotional Spam and Inappropriate Content in Photos at Scale at Yelp](https://engineeringblog.yelp.com/2021/05/moderating-promotional-spam-and-inappropriate-content-in-photos-at-scale-at-yelp.html)
 
 ## Architecture
 * [Systems We Make](https://systemswemake.com/)
