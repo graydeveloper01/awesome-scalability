@@ -161,7 +161,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [Scaling Infrastructure at Twitter - Yao Yue, Staff Software Engineer at Twitter](https://www.youtube.com/watch?v=6OvrFkLSoZ0)
 * :white_check_mark: [Scaling Infrastructure at Etsy - Bethany Macri, Engineering Manager at Etsy](https://www.youtube.com/watch?v=LfqyhM1LeIU)
 * :exclamation: [Scaling Real-time Infrastructure at Alibaba for Global Shopping Holiday - Xiaowei Jiang, Senior Director at Alibaba](https://atscaleconference.com/videos/scaling-alibabas-real-time-infrastructure-for-global-shopping-holiday/) :arrow_right: [Alt link](https://www.facebook.com/atscaleevents/videos/scaling-alibabas-real-time-infrastructure-for-a-global-shopping-holiday-xiaowei-/2045253459081081/)
-* [Scaling Data Infrastructure at Spotify - Matti (Lepistö) Pehrs, Spotify](https://www.youtube.com/watch?v=cdsfRXr9pJU)
+* :white_check_mark: [Scaling Data Infrastructure at Spotify - Matti (Lepistö) Pehrs, Spotify](https://www.youtube.com/watch?v=cdsfRXr9pJU)
 * [Scaling Pinterest - Marty Weiner, Pinterest’s founding engineer](https://www.youtube.com/watch?v=jQNCuD_hxdQ&list=RDhnpzNAPiC0E&index=11)
 * [Scaling Slack - Bing Wei, Software Engineer (Infrastructure) at Slack](https://www.infoq.com/presentations/slack-scalability)
 * [Scaling Backend at Youtube - Sugu Sougoumarane, SDE at Youtube](https://www.youtube.com/watch?v=5yDO-tmIoXY&feature=youtu.be)
