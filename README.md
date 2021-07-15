@@ -155,7 +155,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [Solving Large-scale Data Center and Cloud Interconnection Problems -  Ihab Tarazi, CTO at Equinix](https://atscaleconference.com/videos/solving-large-scale-data-center-and-cloud-interconnection-problems/)
 * :white_check_mark: [Scaling Dropbox - Kevin Modzelewski, Back-end Engineer at Dropbox](https://www.youtube.com/watch?v=PE4gwstWhmc)
 * :x: [Scaling Reliability at Dropbox - Sat Kriya Khalsa, SRE at Dropbox](https://www.youtube.com/watch?v=IhGWOaD5BYQ)
-* :exclamation: [Scaling with Performance at Facebook - Bill Jia, VP of Infrastructure at Facebook](https://atscaleconference.com/videos/performance-scale-2018-opening-remarks/) :arrow_right: [Alt link](https://en-gb.facebook.com/atscaleevents/videos/performance-scale-2018-bill-jia-facebook/2045223562417404/)
+* :exclamation::white_check_mark::x: [Scaling with Performance at Facebook - Bill Jia, VP of Infrastructure at Facebook](https://atscaleconference.com/videos/performance-scale-2018-opening-remarks/) :arrow_right: [Alt link](https://en-gb.facebook.com/atscaleevents/videos/performance-scale-2018-bill-jia-facebook/2045223562417404/)
 * [Scaling Live Videos to a Billion Users at Facebook - Sachin Kulkarni, Director of Engineering at Facebook](https://www.youtube.com/watch?v=IO4teCbHvZw)
 * [Scaling Infrastructure at Instagram - Lisa Guo, Instagram Engineering](https://www.youtube.com/watch?v=hnpzNAPiC0E)
 * [Scaling Infrastructure at Twitter - Yao Yue, Staff Software Engineer at Twitter](https://www.youtube.com/watch?v=6OvrFkLSoZ0)
